@@ -1,1 +1,3 @@
-# Hashira_Problem_Approach
+## Run index.js for execution ||
+
+# Rune node index.js in the terminal  ||
